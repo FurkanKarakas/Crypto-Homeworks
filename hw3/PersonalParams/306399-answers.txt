@@ -1,0 +1,7 @@
+Sciper = 306399
+Worked with (list all): Elia Anzuoni
+Q1_p = 37447469238245631006112603720180247690519435931940827178931639
+Q2_r = [2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 0, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2]
+Q3_prime = 8799443369094427047970819094877123787355026853373616131770943683919045112334773963954433611971107179190227069784972113770139111306176971665111856847551129
+Q4_K = 15984317961006775055575115680587754413511069283085950872733732829045550646296608109871001335279802634854629293818698839900949777086348168404959953411658422480587607393778465079575772360082
+Q5_pt = "Revenge? Revenge! The King under Spriest is dead and where are his kin that dare seek revenge? Girion Lord of Coughing is dead, and I have eaten his people like a wolf among sheep, and where are his sons' sons that dare approach me? I kill where I wish and none dare resist. I laid low the warriors of old and their like is not in the world today. Then I was but young and tender. Now I am old and strong, strong, strong, Thief in Cocooned!"
